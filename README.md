@@ -200,7 +200,7 @@ P.S. 删除线会与“一”重合，还会把“二”转换成“~~二~~”�
 
 例如：
 
-
+![](https://cdn.luogu.com.cn/upload/image_hosting/2o6j3nqv.png)
 
 ```cpp
 #include<bits/stdc++.h>
