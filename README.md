@@ -294,3 +294,23 @@ int main(){
 显示为：
 
 [CSDN](https://csacademy.com/app/graph_editor/)
+
+#### 2.4.2 另一种格式
+
+1. `<`
+2. 链接地址
+3. `>`
+
+例如：
+
+```plain
+<https://floor.io/>
+
+<https://florr.io/>
+```
+
+显示为：
+
+<https://floor.io/>
+
+<https://florr.io/>
